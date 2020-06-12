@@ -22,7 +22,7 @@ https://github.com/needindex/domainsenticnet/blob/master/domainsenticnet_mobile_
 <i>upcoming Release ver. 1.0 </i>
 
 - domain distributional information for the 100K concepts   (across 176 domains):
-  avaliable Summer 2020.
+  avaliable summer/fall 2020.
 
 
 # License
