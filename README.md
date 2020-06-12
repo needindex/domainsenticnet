@@ -9,13 +9,17 @@ Used in combination with <i>OntoSenticNet<i>, our resource can favor the develop
 <img src="DomainSenticNet_scheme.png"/>
 <i>DomainSenticNet</i> ontology scheme.
 
-# Avaliable Datasets
+# Datasets 
+
+<i>Release ver. 0.1 of June 2020</i>
 
 - domain distributional information for the concept "apple" (across 176 domains):
-
+ https://github.com/needindex/domainsenticnet/blob/master/domainsenticnet_apple_june_2020.zip
 
 - domain distributional information for the 100K concepts   (across 2 domains i.e., <i>Games</i> and <i>Mobile games</i>):
+https://github.com/needindex/domainsenticnet/blob/master/domainsenticnet_mobile_games_june_2020.zip
 
+<i>upcoming Release ver. 1.0 </i>
 
 - domain distributional information for the 100K concepts   (across 176 domains):
   avaliable Summer 2020.
