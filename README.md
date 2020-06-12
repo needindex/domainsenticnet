@@ -6,7 +6,8 @@ In particular, we mined semantically related concepts from the <i>WordNet</i> an
 Used in combination with <i>OntoSenticNet<i>, our resource can favor the development of novel hybrid Aspect-based Sentiment Analysis systems and research on Sentic Computing in domain-aware applications.
 
 
-# DomainSenticNet scheme:
+<img src="DomainSenticNet_scheme.png"/>
+<i>DomainSenticNet</i> ontology scheme.
 
 
 
