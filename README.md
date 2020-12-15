@@ -29,4 +29,4 @@ https://github.com/needindex/domainsenticnet/blob/master/domainsenticnet_mobile_
 The related resources are publicly available under <i>Attribution 4.0 International (CC BY 4.0)</i>. https://creativecommons.org/licenses/by/4.0/deed.en
 
 # Authors
-Damiano Distante, Stefano Faralli, Steve Rittinghaus, Paolo Rosso, NimaSamsami
+Damiano Distante, Stefano Faralli, Steve Rittinghaus, Paolo Rosso, Nima Samsami
