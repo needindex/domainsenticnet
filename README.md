@@ -22,11 +22,11 @@ https://github.com/needindex/domainsenticnet/blob/master/domainsenticnet_mobile_
 <i>upcoming Release ver. 1.0 </i>
 
 - domain distributional information for the 100K concepts   (across 176 domains):
-  avaliable on summer/fall 2020.
+  external Google Drive <a href='https://drive.google.com/file/d/1CkCgxqCbzpDh023VZcJPRGUUXTLCoIPx/view?usp=sharing'>link</a>
 
 
 # License
 The related resources are publicly available under <i>Attribution 4.0 International (CC BY 4.0)</i>. https://creativecommons.org/licenses/by/4.0/deed.en
 
 # Authors
-...
+Damiano Distante, Stefano Faralli, Steve Rittinghaus, Paolo Rosso, NimaSamsami
