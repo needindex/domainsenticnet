@@ -19,7 +19,7 @@ Used in combination with <i>OntoSenticNet<i>, our resource can favor the develop
 - domain distributional information for the 100K concepts   (across 2 domains i.e., <i>Games</i> and <i>Mobile games</i>):
 https://github.com/needindex/domainsenticnet/blob/master/domainsenticnet_mobile_games_june_2020.zip
 
-<i>upcoming Release ver. 1.0 </i>
+<i>Release ver. 1.0  of December 2020</i>
 
 - domain distributional information for the 100K concepts   (across 176 domains):
   external Google Drive <a href='https://drive.google.com/file/d/1CkCgxqCbzpDh023VZcJPRGUUXTLCoIPx/view?usp=sharing'>link</a>
